@@ -14,12 +14,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=#8fcaf2&color_dots=#161b22,#1e3a4f,#3d6f91,#6aa8d4,#cfe3f1
+          node-version: 20
+
+      - name: Generate snake SVG
+        run: node scripts/generate-snake.mjs dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

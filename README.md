@@ -80,7 +80,7 @@ const arthur = {
 ### 🐍 Contribuições
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/arthuremmanuel01/arthuremmanuel01/output/github-snake.svg" alt="Snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/arthuremmanuel01/arthuremmanuel01/output/snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Footer -->
