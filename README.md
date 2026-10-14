@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/arthuremmanuel01">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8FCAF2&center=true&vCenter=true&width=620&lines=Construo+software+com+agentes+de+IA;Spec-driven+development+%E2%80%A2+Full-stack;Pesquisa+em+agentes+aut%C3%B4nomos+e+ML;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Gemini+API" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8FCAF2&center=true&vCenter=true&width=760&lines=Construo+software+com+agentes+de+IA;Spec-driven+development+%E2%80%A2+Full-stack;Pesquisa+em+agentes+aut%C3%B4nomos+e+ML;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Gemini+API" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/arthur-emmanuel-oliveira-marinho/"><img src="https://img.shields.io/badge/LinkedIn-0e1318?style=for-the-badge&logo=linkedin&logoColor=8fcaf2" alt="LinkedIn" /></a>
   <a href="mailto:arthuremmanuel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0e1318?style=for-the-badge&logo=gmail&logoColor=8fcaf2" alt="Email" /></a>
   <a href="https://www.arthuremmanuel.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0e1318?style=for-the-badge&logo=googlechrome&logoColor=8fcaf2" alt="Portfólio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=arthuremmanuel01&style=for-the-badge&color=0e1318&label=VISITAS" alt="Visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arthuremmanuel01.arthuremmanuel01&left_color=%230e1318&right_color=%233d6f91&left_text=VISITAS" height="28" alt="Visitas" />
 </p>
 
 ---
@@ -77,8 +77,10 @@ const arthur = {
   <img width="80%" src="https://streak-stats.demolab.com?user=arthuremmanuel01&hide_border=true&background=0E1318&ring=8FCAF2&fire=8FCAF2&currStreakLabel=8FCAF2&sideLabels=EEF0EC&currStreakNum=EEF0EC&sideNums=EEF0EC&dates=8A939C&stroke=FFFFFF14&locale=pt_BR" alt="Streak" />
 </p>
 
+### 🐍 Contribuições
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthuremmanuel01&bg_color=0e1318&color=cfe3f1&line=8fcaf2&point=eef0ec&area=true&area_color=8fcaf2&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Activity Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/arthuremmanuel01/arthuremmanuel01/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- Footer -->
