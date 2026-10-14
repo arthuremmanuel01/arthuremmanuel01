@@ -13,8 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-emmanuel-oliveira-marinho/"><img src="https://img.shields.io/badge/LinkedIn-0e1318?style=for-the-badge&logo=linkedin&logoColor=8fcaf2" alt="LinkedIn" /></a>
   <a href="mailto:arthuremmanuel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0e1318?style=for-the-badge&logo=gmail&logoColor=8fcaf2" alt="Email" /></a>
-  <!-- Troque SEU-SITE pelo domínio do seu site -->
-  <a href="https://SEU-SITE"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0e1318?style=for-the-badge&logo=googlechrome&logoColor=8fcaf2" alt="Portfólio" /></a>
+  <a href="https://www.arthuremmanuel.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0e1318?style=for-the-badge&logo=googlechrome&logoColor=8fcaf2" alt="Portfólio" /></a>
   <img src="https://komarev.com/ghpvc/?username=arthuremmanuel01&style=for-the-badge&color=0e1318&label=VISITAS" alt="Visitas" />
 </p>
 
