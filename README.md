@@ -28,7 +28,7 @@
 Engenheiro de software com foco em **IA agêntica** e **desenvolvimento full-stack**. Construo sistemas completos — do banco de dados à interface — combinando especificação, agentes de IA e testes.
 
 - 🔬 Pesquisa em **agentes autônomos e machine learning** na WebTech Network (VUEI / PUC Tec)
-- 🏗️ Ex-**Tech Lead** no ecossistema digital **KROFH** — arquitetura, full-stack e UI/UX
+- 🏗️ **Tech Lead** no ecossistema digital **KROFH** — arquitetura, full-stack e UI/UX
 - 🎓 **Sistemas de Informação** na PUC Minas
 - 📍 Lagoa Santa, MG — Brasil
 
